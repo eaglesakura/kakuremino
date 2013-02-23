@@ -1,0 +1,11 @@
+bin
+gen
+*/private/**
+apk-build/**
+.DS_Store
+local.properties
+keystore.properties
+release-build
+*/obj/**
+*.o
+*.o.d

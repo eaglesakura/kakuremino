@@ -1,0 +1,4 @@
+#! /bin/sh
+
+android update project -p .
+ant clean debug install
